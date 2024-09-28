@@ -1,7 +1,7 @@
 Soonsnap
 ========
 
-See it for real at soonsnap.com. 
+See it for real at soonsnap.dracos.co.uk
 
 A simple way to exchange just-taken photos in the pub with people you don't know.
 
