@@ -3,12 +3,12 @@
   "short_name": "soonsnap",
   "icons": [
     {
-      "src": "/icon-144.png",
+      "src": "./icon-144.png",
       "sizes": "144x144",
       "type": "image/png",
       "density": "1"
     }
   ],
-  "start_url": "/",
+  "start_url": "/soonsnap/",
   "display": "standalone"
 }
